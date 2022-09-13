@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tim-VD-K
 - 👀 I’m interested in Gaming, Programing
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on dik
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: Tim@bluemammoht.nl
 
 <!---
